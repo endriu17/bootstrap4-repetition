@@ -1,3 +1,3 @@
 # Bootstrap 4 repetition and training
 
-## [Preview:](https://endriu17.github.io/bootstrap4-repetition/)
+## Preview: [click here](https://endriu17.github.io/bootstrap4-repetition/)
